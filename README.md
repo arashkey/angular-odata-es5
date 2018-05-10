@@ -1,5 +1,6 @@
-# Angular OData Library (es5)
+# Angular OData Library (es5) (ver 2)
 
+Add $countinline for more usable 
 [![Greenkeeper badge](https://badges.greenkeeper.io/StefH/angular-odata-es5.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/StefH/angular-odata-es5.svg?branch=master)](https://travis-ci.org/StefH/angular-odata-es5)
 [![codecov](https://codecov.io/gh/StefH/angular-odata-es5/branch/master/graph/badge.svg)](https://codecov.io/gh/StefH/angular-odata-es5)
